@@ -1,0 +1,865 @@
+﻿Log file open, 01/28/20 12:30:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRtestOne
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.075241
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Xeon(R) CPU E3-1505M v6 @ 3.00GHz, GPU: NVIDIA Quadro P5000
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.28-20.30.49:077][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.28-20.30.49:077][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.28-20.30.49:077][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Engine.ini]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Engine.ini]
+[2020.01.28-20.30.49:078][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Engine.ini]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Engine.ini]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.28-20.30.49:078][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Engine.ini]
+[2020.01.28-20.30.49:078][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Engine.ini]
+[2020.01.28-20.30.49:080][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.28-20.30.49:080][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.28-20.30.49:081][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.28-20.30.49:081][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.28-20.30.49:081][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.28-20.30.49:083][  0]LogHAL: Display: Platform has ~ 32 GB [34256408576 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.28-20.30.49:083][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.28-20.30.49:083][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:083][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.28-20.30.49:083][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.28-20.30.49:083][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:083][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.01.28-20.30.49:084][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Scalability.ini]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.28-20.30.49:085][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Config/Windows/Engine.ini]
+[2020.01.28-20.30.49:085][  0]LogInit: Computer: FTV-VR-LT2
+[2020.01.28-20.30.49:085][  0]LogInit: User: vr
+[2020.01.28-20.30.49:085][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.28-20.30.49:085][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.28-20.30.49:085][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.01.28-20.30.49:085][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.28-20.30.49:085][  0]LogMemory: Process Physical Memory: 109.53 MB used, 109.54 MB peak
+[2020.01.28-20.30.49:085][  0]LogMemory: Process Virtual Memory: 105.86 MB used, 105.86 MB peak
+[2020.01.28-20.30.49:085][  0]LogMemory: Physical Memory: 8706.96 MB used,  23962.49 MB free, 32669.46 MB total
+[2020.01.28-20.30.49:085][  0]LogMemory: Virtual Memory: 4698.91 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2020.01.28-20.30.49:089][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.28-20.30.49:106][  0]LogInit: Using OS detected language (en-US).
+[2020.01.28-20.30.49:106][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.28-20.30.49:107][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.28-20.30.49:281][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.28-20.30.49:318][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.28-20.30.49:318][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.28-20.30.49:466][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.28-20.30.49:518][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5000' (Feature Level 11_0)
+[2020.01.28-20.30.49:518][  0]LogD3D11RHI:       16257/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.28-20.30.49:520][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.28-20.30.49:520][  0]LogD3D11RHI:       0/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.28-20.30.49:520][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.28-20.30.49:536][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.28-20.30.49:536][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb6 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.28-20.30.49:536][  0]LogWindows: EnumDisplayDevices:
+[2020.01.28-20.30.49:536][  0]LogWindows:    0. 'NVIDIA Quadro P5000' (P:1 D:1)
+[2020.01.28-20.30.49:536][  0]LogWindows:    1. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.01.28-20.30.49:536][  0]LogWindows:    2. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.01.28-20.30.49:537][  0]LogWindows:    3. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2020.01.28-20.30.49:537][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.28-20.30.49:537][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5000
+[2020.01.28-20.30.49:537][  0]LogD3D11RHI:   Driver Version: 431.94 (internal:26.21.14.3194, unified:431.94)
+[2020.01.28-20.30.49:537][  0]LogD3D11RHI:      Driver Date: 9-19-2019
+[2020.01.28-20.30.49:537][  0]LogRHI: Texture pool is 11379 MB (70% of 16257 MB)
+[2020.01.28-20.30.49:578][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.28-20.30.49:590][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.28-20.30.49:920][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.28-20.30.49:928][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.28-20.30.49:936][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.28-20.30.49:945][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.28-20.30.49:953][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.28-20.30.49:962][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.28-20.30.49:970][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.28-20.30.49:978][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.28-20.30.49:983][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.28-20.30.50:013][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.28-20.30.50:015][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.28-20.30.50:031][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.28-20.30.50:031][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.28-20.30.50:044][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.28-20.30.50:044][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.28-20.30.50:050][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.28-20.30.50:056][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.28-20.30.50:063][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.28-20.30.50:070][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.28-20.30.50:091][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.28-20.30.50:091][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.28-20.30.50:091][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.28-20.30.50:099][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.28-20.30.50:148][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Intermediate/Shaders/WorkingDirectory/182908/).
+[2020.01.28-20.30.50:149][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vr.FTV-VR-LT2/AppData/Local/Temp/UnrealShaderWorkingDir/E7A140C345E0EED9DFE1019569DE0330/'.
+[2020.01.28-20.30.50:152][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.28-20.30.50:152][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.28-20.30.50:152][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.28-20.30.50:774][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.28-20.30.50:830][  0]LogDerivedDataCache: Loaded boot cache 0.06s 93MB C:/Users/vr.FTV-VR-LT2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.28-20.30.50:830][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vr.FTV-VR-LT2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.28-20.30.50:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.28-20.30.50:830][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.28-20.30.50:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.28-20.30.50:830][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.28-20.30.50:840][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.28-20.30.50:840][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.28-20.30.50:840][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.28-20.30.50:841][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vr.FTV-VR-LT2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.28-20.30.50:841][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.28-20.30.50:841][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.28-20.30.50:863][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.28-20.30.50:866][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.28-20.30.50:866][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.28-20.30.50:919][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.01.28-20.30.51:157][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.28-20.30.51:306][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.28-20.30.51:306][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.28-20.30.51:306][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.28-20.30.51:306][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.28-20.30.51:306][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.28-20.30.51:315][  0]LogNetVersion: VRtestOne 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1260576912)
+[2020.01.28-20.30.51:682][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.042724 seconds
+[2020.01.28-20.30.51:688][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.28-20.30.51:688][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.28-20.30.51:688][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.28-20.30.52:455][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.28-20.30.52:458][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.28-20.30.52:503][  0]SourceControl: Source control is disabled
+[2020.01.28-20.30.52:503][  0]SourceControl: Source control is disabled
+[2020.01.28-20.30.52:504][  0]SourceControl: Source control is disabled
+[2020.01.28-20.30.52:505][  0]SourceControl: Source control is disabled
+[2020.01.28-20.30.52:512][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.28-20.30.52:513][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.28-20.30.52:579][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.28-20.30.52:729][  0]LogOcInput: OculusInput pre-init called
+[2020.01.28-20.30.53:291][  0]LogEngine: Initializing Engine...
+[2020.01.28-20.30.53:292][  0]LogHMD: Oculus plugin initialized. Version: 4.23.1-9631420+++UE4+Release-4.23, OVRPlugin: 1.37.0
+[2020.01.28-20.30.53:293][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.28-20.30.53:492][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.28-20.30.53:507][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.28-20.30.53:532][  0]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.28-20.30.53:549][  0]LogInit: FAudioDevice initialized.
+[2020.01.28-20.30.53:549][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.28-20.30.53:606][  0]LogDerivedDataCache: Saved boot cache 0.06s 93MB C:/Users/vr.FTV-VR-LT2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.28-20.30.53:614][  0]LogInit: Texture streaming: Enabled
+[2020.01.28-20.30.53:632][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.28-20.30.53:632][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.28-20.30.53:632][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.28-20.30.53:699][  0]LogInit: Transaction tracking system initialized
+[2020.01.28-20.30.53:730][  0]BlueprintLog: New page: Editor Load
+[2020.01.28-20.30.53:807][  0]LocalizationService: Localization service is disabled
+[2020.01.28-20.30.53:869][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.28-20.30.53:870][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.28-20.30.54:018][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/' took 0.01s
+[2020.01.28-20.30.54:018][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.28-20.30.54:018][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.28-20.30.54:180][  0]SourceControl: Source control is disabled
+[2020.01.28-20.30.54:180][  0]Cmd: MAP LOAD FILE="../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.28-20.30.54:180][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.01.28-20.30.54:181][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.28-20.30.54:181][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2020.01.28-20.30.54:181][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.000
+[2020.01.28-20.30.54:291][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-20.30.54:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-20.30.54:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-20.30.54:309][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-20.30.54:315][  0]LogCollectionManager: Loaded 0 collections in 0.001981 seconds
+[2020.01.28-20.30.54:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Collections/' took 0.00s
+[2020.01.28-20.30.54:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/Developers/vr/Collections/' took 0.00s
+[2020.01.28-20.30.54:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/Collections/' took 0.00s
+[2020.01.28-20.30.54:321][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.01.28-20.30.54:328][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2863 classes and 680 folders.
+[2020.01.28-20.30.54:335][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.28-20.30.54:368][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.28-20.30.54:373][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.01.28-20.30.54:424][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.28-20.30.54:426][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.28-20.30.54:437][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.28-20.30.54:437][  0]LogLoad: (Engine Initialization) Total time: 6.38 seconds
+[2020.01.28-20.30.54:437][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.28-20.30.54:457][  0]LogOcInput: OculusInput is initialized
+[2020.01.28-20.30.54:494][  0]LogAssetRegistry: Asset discovery search completed in 3.5752 seconds
+[2020.01.28-20.30.54:497][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2020.01.28-20.30.54:497][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2020.01.28-20.30.54:498][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.28-20.30.54:507][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.28-20.30.54:582][  2]LogRenderer: Reallocating scene render targets to support 724x332 Format 26 NumSamples 1 (Frame:1).
+[2020.01.28-20.30.56:052][ 73]LogRenderer: Reallocating scene render targets to support 928x396 Format 26 NumSamples 1 (Frame:73).
+[2020.01.28-20.31.08:841][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.31.14:380][172]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.28-20.31.14:421][172]LogAIModule: Creating AISystem for world mainMenuLevel
+[2020.01.28-20.31.14:431][172]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/mainMenuLevel.mainMenuLevel
+[2020.01.28-20.31.14:454][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.01.28-20.31.14:454][172]Cmd: MAP LOAD FILE="../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/VirtualRealityBP/Maps/mainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.28-20.31.14:454][172]LightingResults: New page: Lighting Build
+[2020.01.28-20.31.14:457][172]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.01.28-20.31.14:457][172]LoadErrors: New page: Loading map: mainMenuLevel.umap
+[2020.01.28-20.31.14:458][172]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.28-20.31.14:458][172]MapCheck: New page: Map Check
+[2020.01.28-20.31.14:458][172]LightingResults: New page: Lighting Build
+[2020.01.28-20.31.14:482][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.01.28-20.31.14:539][172]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.28-20.31.14:564][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.28-20.31.14:596][172]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.28-20.31.14:596][172]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2020.01.28-20.31.14:596][172]LogFileHelpers: Loading map 'mainMenuLevel' took 0.143
+[2020.01.28-20.31.18:541][370]LogAIModule: Creating AISystem for world gameLevel
+[2020.01.28-20.31.18:558][370]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/gameLevel.gameLevel
+[2020.01.28-20.31.18:585][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.01.28-20.31.18:585][370]Cmd: MAP LOAD FILE="../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/VirtualRealityBP/Maps/gameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.28-20.31.18:586][370]LightingResults: New page: Lighting Build
+[2020.01.28-20.31.18:586][370]LoadErrors: New page: Loading map: gameLevel.umap
+[2020.01.28-20.31.18:586][370]LogWorld: UWorld::CleanupWorld for mainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2020.01.28-20.31.18:586][370]MapCheck: New page: Map Check
+[2020.01.28-20.31.18:586][370]LightingResults: New page: Lighting Build
+[2020.01.28-20.31.18:608][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.01.28-20.31.18:720][370]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.28-20.31.18:743][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.01.28-20.31.18:774][370]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.28-20.31.18:776][370]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.085ms to complete.
+[2020.01.28-20.31.18:776][370]LogFileHelpers: Loading map 'gameLevel' took 0.190
+[2020.01.28-20.31.21:252][512]LogRenderer: Reallocating scene render targets to support 928x488 Format 26 NumSamples 1 (Frame:1).
+[2020.01.28-20.31.22:938][612]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel
+[2020.01.28-20.31.23:169][612]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.01.28-20.31.23:944][612]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.28-20.31.24:008][613]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.28-20.31.59:245][700]LogEditorTransaction: Undo Paste clipboard contents
+[2020.01.28-20.32.01:540][835]LogEditorTransaction: Undo Paste clipboard contents
+[2020.01.28-20.32.01:982][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_IfThenElse_0 or K2Node_IfThenElse /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_IfThenElse_0
+[2020.01.28-20.32.01:982][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_7 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_7
+[2020.01.28-20.32.01:983][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_8 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_8
+[2020.01.28-20.32.01:983][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_9 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_9
+[2020.01.28-20.32.01:983][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableGet_2 or K2Node_VariableGet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableGet_2
+[2020.01.28-20.32.01:983][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_10 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_10
+[2020.01.28-20.32.01:983][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_IfThenElse_3 or K2Node_IfThenElse /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_IfThenElse_3
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_6 or K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_6
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_11 or K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_11
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_12 or K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_12
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_IfThenElse_2 or K2Node_IfThenElse /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_IfThenElse_2
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableGet_1 or K2Node_VariableGet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableGet_1
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_0 or K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_0
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_1 or K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_1
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_2 or K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_2
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_11 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_11
+[2020.01.28-20.32.01:984][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_12 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_12
+[2020.01.28-20.32.01:985][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_13 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_13
+[2020.01.28-20.32.01:985][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableGet_3 or K2Node_VariableGet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableGet_3
+[2020.01.28-20.32.01:985][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_14 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_14
+[2020.01.28-20.32.01:985][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_0 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_0
+[2020.01.28-20.32.01:985][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_4 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_4
+[2020.01.28-20.32.01:985][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_5 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_5
+[2020.01.28-20.32.01:985][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableGet_0 or K2Node_VariableGet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableGet_0
+[2020.01.28-20.32.01:985][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_6 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_6
+[2020.01.28-20.32.01:985][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_IfThenElse_1
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_11 or K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_11
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_12 or K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_12
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.EdGraphNode_Comment_0 or EdGraphNode_Comment /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.EdGraphNode_Comment_0
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.EdGraphNode_Comment_1 or EdGraphNode_Comment /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.EdGraphNode_Comment_1
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.EdGraphNode_Comment_2 or EdGraphNode_Comment /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.EdGraphNode_Comment_2
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_3 or K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_3
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_5 or K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_5
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_6 or K2Node_VariableSet /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_VariableSet_6
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_16 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_16
+[2020.01.28-20.32.01:986][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_17 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_17
+[2020.01.28-20.32.01:987][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_15 or K2Node_CallFunction /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_CallFunction_15
+[2020.01.28-20.32.01:987][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_3 or K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_3
+[2020.01.28-20.32.01:987][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_4 or K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_4
+[2020.01.28-20.32.01:987][861]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_5 or K2Node_Literal /Game/VirtualRealityBP/Maps/gameLevel.gameLevel:PersistentLevel.gameLevel.CrystalsCheck.K2Node_Literal_5
+[2020.01.28-20.33.12:273][ 69]BlueprintLog: New page: Compile gameLevel
+[2020.01.28-20.33.12:280][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Could not find a variable named "crystalsDropped" in 'gameLevel_C'.
+Make sure 'gameLevel_C' has been compiled for  Get crystalsDropped
+[2020.01.28-20.33.12:281][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Could not find a variable named "CrystalMain" in 'gameLevel_C'.
+Make sure 'gameLevel_C' has been compiled for  Set CrystalMain
+[2020.01.28-20.33.12:281][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Could not find a variable named "CrystalThick" in 'gameLevel_C'.
+Make sure 'gameLevel_C' has been compiled for  Set CrystalThick
+[2020.01.28-20.33.12:281][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Could not find a variable named "CrystalThin" in 'gameLevel_C'.
+Make sure 'gameLevel_C' has been compiled for  Set CrystalThin
+[2020.01.28-20.33.12:281][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Could not find a variable named "CrystalThin" in 'gameLevel_C'.
+Make sure 'gameLevel_C' has been compiled for  Set CrystalThin
+[2020.01.28-20.33.12:281][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Could not find a variable named "CrystalThick" in 'gameLevel_C'.
+Make sure 'gameLevel_C' has been compiled for  Set CrystalThick
+[2020.01.28-20.33.12:281][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Could not find a variable named "CrystalMain" in 'gameLevel_C'.
+Make sure 'gameLevel_C' has been compiled for  Set CrystalMain
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Error: [Compiler PersistentLevel.gameLevel] The property associated with  Crystal Main  could not be found in '/Game/VirtualRealityBP/Maps/gameLevel.gameLevel_C'
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Error: [Compiler PersistentLevel.gameLevel] The property associated with  Crystal Thick  could not be found in '/Game/VirtualRealityBP/Maps/gameLevel.gameLevel_C'
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Error: [Compiler PersistentLevel.gameLevel] The property associated with  Crystal Thin  could not be found in '/Game/VirtualRealityBP/Maps/gameLevel.gameLevel_C'
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Error: [Compiler PersistentLevel.gameLevel] The property associated with  Crystal Thin  could not be found in '/Game/VirtualRealityBP/Maps/gameLevel.gameLevel_C'
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Error: [Compiler PersistentLevel.gameLevel] The property associated with  Crystal Thick  could not be found in '/Game/VirtualRealityBP/Maps/gameLevel.gameLevel_C'
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Error: [Compiler PersistentLevel.gameLevel] The property associated with  Crystal Main  could not be found in '/Game/VirtualRealityBP/Maps/gameLevel.gameLevel_C'
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Error: [Compiler PersistentLevel.gameLevel] The property associated with  Crystals Dropped  could not be found in '/Game/VirtualRealityBP/Maps/gameLevel.gameLevel_C'
+[2020.01.28-20.33.12:283][ 69]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.33.12:475][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.28-20.34.54:484][145]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={BB6E7531-4EAB-0C14-E896-D48092AA0C83}
+[2020.01.28-20.35.54:500][724]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4661FF1B-4791-BF65-2A85-43AB82A4129F}
+[2020.01.28-20.35.54:762][740]BlueprintLog: New page: Compile gameLevel
+[2020.01.28-20.35.54:771][740]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.54:771][740]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.54:771][740]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.54:771][740]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.54:771][740]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.54:771][740]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.54:953][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.28-20.35.57:284][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.28-20.35.57:306][874]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.57:306][874]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.57:306][874]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.57:306][874]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.57:306][874]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.57:306][874]LogBlueprint: Warning: [Compiler PersistentLevel.gameLevel] Node  Unknown  is not referencing a valid level actor
+[2020.01.28-20.35.57:590][874]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/gameLevel67CBB5864FFFFF07FDA214A8133716E9.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/VirtualRealityBP/Maps/gameLevel.umap'
+[2020.01.28-20.35.57:626][874]LogFileHelpers: Saving map 'gameLevel' took 0.374
+[2020.01.28-20.36.52:233][873]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.37.18:873][456]LogMaterial: Display: Missing cached shader map for material M_Bush, compiling. 
+[2020.01.28-20.37.19:033][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2020.01.28-20.37.19:033][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.01.28-20.37.19:033][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.01.28-20.37.19:033][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.01.28-20.37.19:033][456]LogMaterial: Display: Missing cached shader map for material M_Frame, compiling. 
+[2020.01.28-20.37.19:162][456]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2020.01.28-20.37.19:262][456]LogMaterial: Display: Missing cached shader map for material M_Door, compiling. 
+[2020.01.28-20.37.19:350][456]LogMaterial: Display: Missing cached shader map for material M_Lamp, compiling. 
+[2020.01.28-20.37.19:441][456]LogMaterial: Display: Missing cached shader map for material M_MaterialSphere, compiling. 
+[2020.01.28-20.37.19:661][456]LogMaterial: Display: Missing cached shader map for material M_Rock, compiling. 
+[2020.01.28-20.37.19:726][456]LogMaterial: Display: Missing cached shader map for material M_Shelf, compiling. 
+[2020.01.28-20.37.21:013][456]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2020.01.28-20.37.21:047][456]LogMaterial: Display: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2020.01.28-20.37.21:078][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 303
+[2020.01.28-20.37.21:078][456]LogMaterial: Display: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2020.01.28-20.37.21:157][456]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2020.01.28-20.37.21:343][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 424
+[2020.01.28-20.37.21:546][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 468
+[2020.01.28-20.37.21:662][456]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2020.01.28-20.37.21:829][456]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.01.28-20.37.22:242][456]LogMaterial: Display: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2020.01.28-20.37.22:272][456]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2020.01.28-20.37.22:304][456]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2020.01.28-20.37.22:336][456]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.01.28-20.37.22:363][456]LogMaterial: Display: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2020.01.28-20.37.22:428][456]LogMaterial: Display: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2020.01.28-20.37.22:453][456]LogMaterial: Display: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2020.01.28-20.37.22:482][456]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2020.01.28-20.37.22:514][456]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2020.01.28-20.37.22:544][456]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2020.01.28-20.37.22:572][456]LogMaterial: Display: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2020.01.28-20.37.22:597][456]LogMaterial: Display: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2020.01.28-20.37.22:624][456]LogMaterial: Display: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2020.01.28-20.37.22:650][456]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2020.01.28-20.37.22:712][456]LogMaterial: Display: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2020.01.28-20.37.22:747][456]LogMaterial: Display: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2020.01.28-20.37.22:856][456]LogMaterial: Display: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2020.01.28-20.37.22:910][456]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2020.01.28-20.37.22:939][456]LogMaterial: Display: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2020.01.28-20.37.22:965][456]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2020.01.28-20.37.23:007][456]LogMaterial: Display: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2020.01.28-20.37.23:033][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1207
+[2020.01.28-20.37.23:033][456]LogMaterial: Display: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2020.01.28-20.37.23:060][456]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2020.01.28-20.37.23:085][456]LogMaterial: Display: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2020.01.28-20.37.23:110][456]LogMaterial: Display: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2020.01.28-20.37.23:136][456]LogMaterial: Display: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2020.01.28-20.37.23:163][456]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2020.01.28-20.37.23:189][456]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2020.01.28-20.37.23:214][456]LogMaterial: Display: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.01.28-20.37.23:246][456]LogAIModule: Creating AISystem for world StarterMap
+[2020.01.28-20.37.23:277][456]LogMaterial: Display: Missing cached shader map for material M_ColorGrid_LowSpec, compiling. 
+[2020.01.28-20.37.24:539][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1507
+[2020.01.28-20.37.24:952][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1497
+[2020.01.28-20.37.25:713][456]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2020.01.28-20.37.26:004][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1487
+[2020.01.28-20.37.26:008][456]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.01.28-20.37.26:301][456]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.01.28-20.37.26:919][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1477
+[2020.01.28-20.37.27:663][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/StarterMap_BuiltData162930C94774801D78E1B69B234F5379.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Maps/StarterMap_BuiltData.uasset'
+[2020.01.28-20.37.27:757][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Minimal_Default_BuiltData1FAD15DD48C6DC1A4479E680FA284A09.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.01.28-20.37.27:762][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1467
+[2020.01.28-20.37.27:802][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/Advanced_Lighting_BuiltData5D0F0B0E45806A5D7428A5836437C255.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset'
+[2020.01.28-20.37.27:894][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/MaterialSphere979C3BF64976BA4E738804952404419B.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/MaterialSphere.uasset'
+[2020.01.28-20.37.27:926][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Bush" FILE="../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Bush.uasset" SILENT=true
+[2020.01.28-20.37.27:985][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_BushA3F3CDEF4345772A39E5E0822F3620DF.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Bush.uasset'
+[2020.01.28-20.37.28:013][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Chair" FILE="../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Chair.uasset" SILENT=true
+[2020.01.28-20.37.28:075][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_Chair673D7BDC4563075A93FA32B2EF7F1C7C.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Chair.uasset'
+[2020.01.28-20.37.28:142][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_CornerFrame0DC0AD354D7464E336338AA10D180704.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_CornerFrame.uasset'
+[2020.01.28-20.37.28:159][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Couch" FILE="../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Couch.uasset" SILENT=true
+[2020.01.28-20.37.28:220][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_CouchD6EE8C5E4D4043606E1C5E9CAC5CB995.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Couch.uasset'
+[2020.01.28-20.37.28:240][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2020.01.28-20.37.28:300][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_Door1A5459144CAC5683CFE522B28E8C7597.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Door.uasset'
+[2020.01.28-20.37.28:359][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1457
+[2020.01.28-20.37.28:359][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_DoorFrame7742FDDE4BD069D4BAD03D86EFDE381B.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_DoorFrame.uasset'
+[2020.01.28-20.37.28:443][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_GlassWindow9D7A9A0147C42206710781ABD22D10A5.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_GlassWindow.uasset'
+[2020.01.28-20.37.28:529][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_Lamp_Ceiling543928DB447CFD8E18779CA42C719706.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset'
+[2020.01.28-20.37.28:600][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_Lamp_WallFCBCFC344D310C158225119D7EB39E3B.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Lamp_Wall.uasset'
+[2020.01.28-20.37.28:763][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_MatPreviewMesh_0297C540BA42899119DAED6AAA985EE9AC.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset'
+[2020.01.28-20.37.28:833][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_PillarFrame85F8B36249F4684A7ABA1F8E3841B820.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_PillarFrame.uasset'
+[2020.01.28-20.37.28:903][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_PillarFrame3000F989D4C47803BC4262CFC8D5B4D7CC5.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_PillarFrame300.uasset'
+[2020.01.28-20.37.28:923][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Rock" FILE="../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Rock.uasset" SILENT=true
+[2020.01.28-20.37.28:982][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_Rock002DF0E5418250206FCFC9BBE1C919AC.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Rock.uasset'
+[2020.01.28-20.37.28:999][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Shelf" FILE="../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Shelf.uasset" SILENT=true
+[2020.01.28-20.37.29:048][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_Shelf1498BEC348FA8F58736A3882E0BC12F5.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Shelf.uasset'
+[2020.01.28-20.37.29:106][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_Stairs4AAA7BCA4D075342F93AAEBE9ED28FEA.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Stairs.uasset'
+[2020.01.28-20.37.29:252][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_Statue7EEC62C6437482D34653C3A4D677302E.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_Statue.uasset'
+[2020.01.28-20.37.29:391][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_TableRoundBC2DDBE443657E506D339E95FB4538F6.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_TableRound.uasset'
+[2020.01.28-20.37.29:455][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/SM_WindowFrameB676434D4757D640A6758888FD13E6A1.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/SM_WindowFrame.uasset'
+[2020.01.28-20.37.29:526][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/M_Bush6DA271164898CF221CD0748DA26F8A96.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/Materials/M_Bush.uasset'
+[2020.01.28-20.37.29:588][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/M_Chair9052533449D157FA94893BBF90575F06.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/Materials/M_Chair.uasset'
+[2020.01.28-20.37.44:968][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1447
+[2020.01.28-20.37.44:968][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1437
+[2020.01.28-20.37.44:968][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1427
+[2020.01.28-20.37.44:968][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1417
+[2020.01.28-20.37.44:968][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1407
+[2020.01.28-20.37.44:968][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1397
+[2020.01.28-20.37.44:968][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1387
+[2020.01.28-20.37.44:968][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1377
+[2020.01.28-20.37.45:060][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/M_DoorF67D8C844DE296B99F1C5C847385CAF7.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/Materials/M_Door.uasset'
+[2020.01.28-20.37.45:126][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/M_Frame03B8885C4C9002C663B615AFDB70B2DD.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/Materials/M_Frame.uasset'
+[2020.01.28-20.37.48:155][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1367
+[2020.01.28-20.37.48:155][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1357
+[2020.01.28-20.37.48:155][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1347
+[2020.01.28-20.37.48:155][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1337
+[2020.01.28-20.37.48:239][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/M_LampED792A0544B4943DB76EAB99191FE5D0.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/Materials/M_Lamp.uasset'
+[2020.01.28-20.37.49:192][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1327
+[2020.01.28-20.37.49:256][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/M_MaterialSphereB703DC9A49178C9C265DE3BC8C22DBE6.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset'
+[2020.01.28-20.37.49:315][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/M_MaterialSphere_Plain6D0CECCD4BD6514FF2C2F8AB83946176.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset'
+[2020.01.28-20.37.52:245][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1317
+[2020.01.28-20.37.52:245][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1307
+[2020.01.28-20.37.52:245][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1297
+[2020.01.28-20.37.52:245][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1287
+[2020.01.28-20.37.52:313][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/M_RockCD623D6947FFA72407A8C59C68354072.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/Materials/M_Rock.uasset'
+[2020.01.28-20.37.54:753][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1277
+[2020.01.28-20.37.54:753][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1267
+[2020.01.28-20.37.54:753][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1257
+[2020.01.28-20.37.54:818][456]LogSavePackage: Moving '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Saved/M_Shelf983192CB48C405EE0AF308BAB045C849.tmp' to '../../../../../../Users/vr.FTV-VR-LT2/Documents/Unreal Projects/VRtestOne/Content/StarterContent/Props/Materials/M_Shelf.uasset'
+[2020.01.28-20.37.54:860][456]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.28-20.37.55:311][456]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.451 s
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: 
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: Found circular redirect from /Game/StarterContent/Props/SM_Statue.SM_Statue to /Game/StarterContent/Props/SM_Statue.SM_Statue! Returning None instead
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: Stack: 
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d1676df0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d12f62e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d15af416 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d15c61c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d132df77 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d12bbb23 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:311][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d15bd7c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d144557c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d156fcc9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d1570221 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d14476ac UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d150ea03 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d150ce2b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d150cb14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8ca476ac9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d1551d62 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d1573b09 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8d155a771 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8c85d795f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8c85d82f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8c860f3b8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8c860bc3b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8c8dd7cd0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8c894bd52 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8c894a860 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8c895f046 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8cc914f02 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8cc8ca8aa UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8cc92a280 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8bfac7840 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8bfac7fa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8bfc3ea65 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8bfc39a8f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8bfc3d072 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8bfa919d0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8bfa91b1e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e3199d2f UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e31a0310 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e317c534 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:312][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e32158b8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e32314b1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e31a1ca5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e3075231 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e30fb4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e30e52e8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff8e30d9c91 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff900884e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff9008726df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff900887340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff90086edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff92b5063ed USER32.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff92b505de2 USER32.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff9008888e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff66e596980 UE4Editor.exe!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff66e5aa91c UE4Editor.exe!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff66e5aa9fa UE4Editor.exe!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff66e5bb92c UE4Editor.exe!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff66e5be60e UE4Editor.exe!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff92b3c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: [Callstack] 0x00007ff92cf4ced1 ntdll.dll!UnknownFunction []
+[2020.01.28-20.37.55:313][456]LogOutputDevice: Error: 
+[2020.01.28-20.37.55:318][456]LogStats:                SubmitErrorReport -  0.000 s
+[2020.01.28-20.37.56:163][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1247
